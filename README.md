@@ -9,7 +9,7 @@ Website portofolio statis (HTML/CSS/JS murni, tanpa build tools) siap di-deploy 
 - `script.js` — menu mobile & filter portofolio
 - `photo.png` — foto profil (dipakai di hero & about)
 - `konsulin-cover.jpg` — screenshot cover untuk kartu portofolio Konsulin
-- `sikendali-cover.jpg`, `sikops-cover.jpg` — screenshot dashboard (data demo) untuk kartu Sistem Custom
+- `sikendali-cover.jpg`, `sismenkeu-cover.jpg` — screenshot dashboard (data demo) untuk kartu Sistem Custom
 
 ## Cara publish ke GitHub Pages
 
